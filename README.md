@@ -28,6 +28,9 @@ and various sensors are integrated for real-time monitoring.
  - Easy-to-use and compact design.
 
 **Circuit Diagram**
+![Circuit Diagram](circuit_diagram.jpg)
+
+
 Below is the general circuit connection:
 
 MAX30102:
