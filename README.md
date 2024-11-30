@@ -1,4 +1,4 @@
-# Health Monitoring System using ESP32, MAX30102, DHT22, and I2C LCD
+# Health Monitoring System using ESP32
 
 **Overview**
 This project aims to build a health monitoring system that reads vital health parameters such as BPM (Beats per Minute), 
