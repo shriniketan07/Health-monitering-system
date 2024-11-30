@@ -56,7 +56,7 @@ void setup() {
   lcd.setCursor(0, 0);
   lcd.print("by group") ;
   lcd.setCursor(0, 1);
-  lcd.print("B-13")    ;
+  lcd.print("Shriniketan")    ;
   delay(1000);  
   lcd.clear();
    
